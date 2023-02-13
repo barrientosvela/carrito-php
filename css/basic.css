@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'callista';
+    src: url('../fonts/Callista\ Italic.ttf') format('truetype');
+}
+
+h1{
+    font-family: 'callista';
+    font-size: 45px;
+}
+li a img{
+    height: 30px;
+    width: 30px;
+}
